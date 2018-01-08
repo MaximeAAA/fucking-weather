@@ -31,7 +31,7 @@ const weatherCases = {
   },
   Mist: {
     colors: ["#D7D2CC", "#304352"],
-    title: "Clouds",
+    title: "Mist",
     subtitle: "It's like you have no glasses on.",
     icon: "weather-fog"
   },
